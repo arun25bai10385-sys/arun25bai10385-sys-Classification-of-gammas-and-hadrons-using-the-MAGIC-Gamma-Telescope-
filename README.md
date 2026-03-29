@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0%2B-orange?logo=scikit-learn)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 ---
@@ -125,7 +124,7 @@ Load Dataset → Encode Target → Train/Test Split (80/20)
 📦 MAGIC-Gamma-Telescope-Classification
  ┣ 📜 logistic_regression.py   # Main model script
  ┣ 📜 README.md                # Project documentation
- ┗ 📜 requirements.txt         # Dependencies
+ ┗ 📜 magic04.data             # Contains the Data from the Magic Gamma Telescope
 ```
 
 ---
