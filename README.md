@@ -2,6 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0%2B-orange?logo=scikit-learn)
+![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 ---
@@ -124,7 +125,7 @@ Load Dataset → Encode Target → Train/Test Split (80/20)
 📦 MAGIC-Gamma-Telescope-Classification
  ┣ 📜 logistic_regression.py   # Main model script
  ┣ 📜 README.md                # Project documentation
- ┗ 📜 magic04.data             # Contains the Data from the Magic Gamma Telescope
+ ┗ 📜 requirements.txt         #dependencies to run the model
 ```
 
 ---
@@ -153,9 +154,7 @@ pip install -r requirements.txt
 
 | Name | GitHub |
 |---|---|
-| Arun | [@arun25bai10385-sys](https://github.com/arun25bai10385-sys) |
-| Rajeev | [@Rajeev02-bai](https://github.com/Rajeev02-bai) |
-
+| Arun Rajeev Nethran| [@arun25bai10385-sys](https://github.com/arun25bai10385-sys) |
 ---
 
 ## 📄 License
@@ -168,4 +167,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/) for the dataset
 - [MAGIC Telescope Collaboration](https://magic.mpp.mpg.de/) for the original data collection
-- Scikit-learn documentation and community
